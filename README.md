@@ -40,7 +40,7 @@ Software Engineer with a strong academic background in Software Engineering and 
 
 | 🏗️ Languages &amp; Core | 🌱 Spring Ecosystem |
 |:---:|:---:|
-| <br><img src="https://skillicons.dev/icons?i=java,python,sql,mysql,postgres,mongodb&amp;perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=spring,hibernate,kafka&amp;perline=5" /><br> |
+| <br><img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,mongodb&amp;perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=spring,hibernate,kafka&amp;perline=5" /><br> |
 
 <br>
 
