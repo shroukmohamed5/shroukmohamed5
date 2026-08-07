@@ -63,20 +63,20 @@ Software Engineer with a strong academic background in Software Engineering and 
 <div align="center">
 
 | Project | Description | Core Technology |
-| :--- | :--- | :--- |
-| **[ML Resume Ranker](https://github.com/shroukmohamed5/ML-Resume-Ranker)** | Bachelor's Thesis — automated ML system to evaluate &amp; rank resumes for IT recruitment using NLP | `NLP` `ML` `Data Processing` |
-| **[Full-Stack E-Commerce Microservices](https://github.com/shroukmohamed5/Full-Stack-E-Commerce-System-using-Spring-Boot-Microservices-Angular)** | Product, order, inventory &amp; notification microservices with Gateway, Keycloak auth, Kafka messaging | `Spring Cloud` `Kafka` `Keycloak` `Angular` |
-| **[Big Data Project](https://github.com/shroukmohamed5/Big-Data-Project)** | Credit scoring classification model for financial risk assessment | `scikit-learn` `Pandas` `NumPy` |
-| **[Employee Management System](https://github.com/shroukmohamed5/Employee-Management-System)** | REST API for employee records with full CRUD &amp; RBAC authentication | `Spring Data JPA` `Spring Security` `MySQL` |
-| **[Kafka Spring Boot Messaging](https://github.com/shroukmohamed5/KAFKA-Spring-Boot-Docker-Postman-)** | Event-driven messaging system with dedicated Kafka producer/consumer services | `Kafka` `Docker` `Postman` |
-| **[Spring Boot + Git Workflow](https://github.com/shroukmohamed5/Spring-_Boot-_With-Git-)** | Professional feature-branching &amp; semantic versioning workflow | `Spring Boot` `Git` |
-| **[Backend Java + Docker Compose](https://github.com/shroukmohamed5/Backend-Java-With-Docker-Compose-Spring-Boot-)** | Multi-container application environment | `Docker Compose` `Spring Boot` |
-| **[MERN Stack + Docker](https://github.com/shroukmohamed5/PROJECT-WEB-MERN-STACK-WITH-DOCKER-)** | Full-stack web project containerized with Docker | `MongoDB` `Express` `React` `Node.js` |
-| **[Parking Payment Site](https://github.com/shroukmohamed5/Parking-Payment-Site)** | Web application for parking payment management | `Web` |
-| **[Telegram Bot](https://github.com/shroukmohamed5/bot-telegram)** | Automated Telegram bot | `Python` |
-| **[Ping Project](https://github.com/shroukmohamed5/project-ping-by-python)** | Network ping utility built in Python | `Python` `Networking` |
-| **[Minecraft](https://github.com/shroukmohamed5/Minecraft)** | Java-based Minecraft project | `Java` |
-| **[Assembly Language](https://github.com/shroukmohamed5/Assembly-Language)** | Low-level programming exercises | `Assembly` |
+| :--- | :--- | :---: |
+| 🧠 **[ML Resume Ranker](https://github.com/shroukmohamed5/ML-Resume-Ranker)** | Bachelor's Thesis — automated ML system to evaluate &amp; rank resumes for IT recruitment using NLP | ![NLP](https://img.shields.io/badge/NLP-00d4ff?style=flat-square) ![ML](https://img.shields.io/badge/ML-00d4ff?style=flat-square) |
+| 🛒 **[Full-Stack E-Commerce Microservices](https://github.com/shroukmohamed5/Full-Stack-E-Commerce-System-using-Spring-Boot-Microservices-Angular)** | Product, order, inventory &amp; notification microservices with Gateway, Keycloak auth, Kafka messaging | ![Spring](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white) |
+| 📊 **[Big Data Project](https://github.com/shroukmohamed5/Big-Data-Project)** | Credit scoring classification model for financial risk assessment | ![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white) |
+| 👥 **[Employee Management System](https://github.com/shroukmohamed5/Employee-Management-System)** | REST API for employee records with full CRUD &amp; RBAC authentication | ![Spring](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white) |
+| 📨 **[Kafka Spring Boot Messaging](https://github.com/shroukmohamed5/KAFKA-Spring-Boot-Docker-Postman-)** | Event-driven messaging system with dedicated Kafka producer/consumer services | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white) |
+| 🌿 **[Spring Boot + Git Workflow](https://github.com/shroukmohamed5/Spring-_Boot-_With-Git-)** | Professional feature-branching &amp; semantic versioning workflow | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white) |
+| 🐳 **[Backend Java + Docker Compose](https://github.com/shroukmohamed5/Backend-Java-With-Docker-Compose-Spring-Boot-)** | Multi-container application environment | ![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white) |
+| 🌐 **[MERN Stack + Docker](https://github.com/shroukmohamed5/PROJECT-WEB-MERN-STACK-WITH-DOCKER-)** | Full-stack web project containerized with Docker | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black) |
+| 🅿️ **[Parking Payment Site](https://github.com/shroukmohamed5/Parking-Payment-Site)** | Web application for parking payment management | ![Web](https://img.shields.io/badge/Web-00d4ff?style=flat-square) |
+| 🤖 **[Telegram Bot](https://github.com/shroukmohamed5/bot-telegram)** | Automated Telegram bot | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white) |
+| 📡 **[Ping Project](https://github.com/shroukmohamed5/project-ping-by-python)** | Network ping utility built in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white) |
+| 🎮 **[Minecraft](https://github.com/shroukmohamed5/Minecraft)** | Java-based Minecraft project | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white) |
+| ⚙️ **[Assembly Language](https://github.com/shroukmohamed5/Assembly-Language)** | Low-level programming exercises | ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square) |
 
 </div>
 
@@ -108,6 +108,9 @@ Software Engineer with a strong academic background in Software Engineering and 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shroukmohamed5/shroukmohamed5/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake animating over the years' contribution graph" />
 </div>
+
+> ⚠️ لازم تفعّلي الـ GitHub Action المرفقة (`snake.yml`) في نفس الريبو الأول عشان السطر ده يشتغل — التعليمات تحت في نهاية الرسالة.
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
@@ -115,17 +118,33 @@ Software Engineer with a strong academic background in Software Engineering and 
 ## 🎓 Education &amp; Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GPA-4.92%2F5.0-00d4ff?style=for-the-badge&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Bachelor's-Software_Engineering-orange?style=for-the-badge&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Bachelor's-Big_Data%2C_ML_%26_AI-00e676?style=for-the-badge&amp;logoColor=white" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f2247,100:00d4ff&amp;height=65&amp;section=header&amp;text=B.Sc.%20Software%20Engineering&amp;fontSize=17&amp;fontColor=ffffff&amp;fontAlignY=60&amp;animation=fadeIn" width="100%"/>
+
+🏫&nbsp;**Belgorod State Technological University (BSTU)**&nbsp;·&nbsp;Russia
+
+<img src="https://img.shields.io/badge/GPA-4.92%2F5.0-00d4ff?style=flat-square&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Honors-Distinction-orange?style=flat-square&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Graduated-2026-00e676?style=flat-square&amp;logoColor=white"/>
+
+</td>
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f2247,100:00e676&amp;height=65&amp;section=header&amp;text=Big%20Data%2C%20ML%20and%20AI&amp;fontSize=17&amp;fontColor=ffffff&amp;fontAlignY=60&amp;animation=fadeIn" width="100%"/>
+
+🏫&nbsp;**Belgorod State Technological University (BSTU)**&nbsp;·&nbsp;Russia
+
+<img src="https://img.shields.io/badge/Hours-504-00d4ff?style=flat-square&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Honors-Distinction-orange?style=flat-square&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Graduated-2025-00e676?style=flat-square&amp;logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
 </div>
-
-<br>
-
-| Degree | Institution | Details |
-| :--- | :--- | :--- |
-| B.Sc. Software Engineering | Belgorod State Technological University (BSTU) | GPA 4.92/5.0 · Graduated with Honors · 2026 |
-| B.Sc. Big Data Analysis, Machine Learning &amp; AI | Belgorod State Technological University (BSTU) | 504 Hours · Graduated with Honors · 2025 |
 
 <br>
 
