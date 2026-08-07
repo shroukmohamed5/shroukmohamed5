@@ -42,6 +42,7 @@ Software Engineer with a strong academic background in Software Engineering and 
 | :------------------: | :-----------------: | :-------------------------------------: |
 | <br><br><img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,mongodb&perline=5" /> | <br><br><img src="https://skillicons.dev/icons?i=spring,hibernate,kafka&perline=5" /> | <br><br><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,anaconda&perline=5" />
 
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
