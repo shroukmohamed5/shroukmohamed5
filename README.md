@@ -40,7 +40,7 @@ Software Engineer with a strong academic background in Software Engineering and 
 
 | 🏗️ Languages &amp; Core | 🌱 Spring Ecosystem |
 |:---:|:---:|
-| <br><img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,mongodb&amp;perline=5" /><br><br><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-00d4ff?style=for-the-badge" /> <img src="https://img.shields.io/badge/OOP-00d4ff?style=for-the-badge" /> <img src="https://img.shields.io/badge/Microservices-00e676?style=for-the-badge" /><br> | <br><img src="https://skillicons.dev/icons?i=spring,hibernate,kafka&amp;perline=5" /><br> |
+| <br><img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,mongodb&amp;perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=spring,hibernate,kafka&amp;perline=5" /><br> |
 
 <br>
 
