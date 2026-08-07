@@ -108,9 +108,6 @@ Software Engineer with a strong academic background in Software Engineering and 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shroukmohamed5/shroukmohamed5/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake animating over the years' contribution graph" />
 </div>
-
-> ⚠️ لازم تفعّلي الـ GitHub Action المرفقة (`snake.yml`) في نفس الريبو الأول عشان السطر ده يشتغل — التعليمات تحت في نهاية الرسالة.
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
