@@ -38,9 +38,30 @@ Software Engineer with a strong academic background in Software Engineering and 
 
 <div align="center">
 
-| 🏗️ Languages &amp; Core | 🌱 Spring Ecosystem | 🧠 ML, Data &amp; AI |
-|:---:|:---:|:---:|
-| <br><img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,mongodb&amp;perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=spring,hibernate,kafka&amp;perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=sklearn&amp;perline=5" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" height="48"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" height="48"> <img src="https://img.shields.io/badge/NLP-00d4ff?style=for-the-badge&amp;logoColor=white" height="48"><br> |
+| 🏗️ Languages & Core | 🌱 Spring Ecosystem | 🧠 Machine Learning, Deep Learning & AI |
+| :------------------: | :-----------------: | :-------------------------------------: |
+| <br><br><img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,mongodb&perline=5" /> | <br><br><img src="https://skillicons.dev/icons?i=spring,hibernate,kafka&perline=5" /> | <br><br><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,anaconda&perline=5" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-6C3EF4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep_Learning-6C3EF4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-00d4ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Vision-00d4ff?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/SBERT-FF4081?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Big_Data_Processing-00e676?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Analytics-00e676?style=for-the-badge" />
+|
 
 <br>
 
