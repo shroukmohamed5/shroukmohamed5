@@ -61,7 +61,9 @@ Software Engineer with a strong academic background in Software Engineering and 
 <img src="https://img.shields.io/badge/SBERT-FF4081?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Big_Data_Processing-00e676?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data_Analytics-00e676?style=for-the-badge" />
-|
+
+
+
 
 <br>
 
