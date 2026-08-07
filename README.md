@@ -65,7 +65,7 @@ Software Engineer with a strong academic background in Software Engineering and 
 
 
 
-<br>
+<br><br>
 
 | 🐳 DevOps &amp; Tools | 🌐 Web &amp; Frontend | 💻 OS |
 |:---:|:---:|:---:|
