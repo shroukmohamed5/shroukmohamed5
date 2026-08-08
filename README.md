@@ -139,9 +139,9 @@ Software Engineer with a strong academic background in Software Engineering and 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f2247,100:00d4ff&amp;height=65&amp;section=header&amp;text=B.Sc.%20Software%20Engineering&amp;fontSize=17&amp;fontColor=ffffff&amp;fontAlignY=60&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f2247,100:00d4ff&amp;height=65&amp;section=header&amp;text=B.Sc.%20Software%20Engineering&amp;fontSize=22&amp;fontColor=ffffff&amp;fontAlignY=60&amp;animation=fadeIn" width="100%"/>
 
-🏫&amp;nbsp;**Belgorod State Technological University (BSTU)**&amp;nbsp;·&amp;nbsp;Russia
+🏫&nbsp;**Belgorod State Technological University (BSTU)**&nbsp;·&nbsp;Russia
 
 <img src="https://img.shields.io/badge/GPA-4.92%2F5.0-00d4ff?style=flat-square&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Honors-Distinction-orange?style=flat-square&amp;logoColor=white"/>
@@ -149,9 +149,9 @@ Software Engineer with a strong academic background in Software Engineering and 
 
 </td>
 <td align="center" width="50%">
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f2247,100:00e676&amp;height=65&amp;section=header&amp;text=Diploma%3A%20Big%20Data%2C%20ML%20%26%20AI&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlignY=60&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f2247,100:00e676&amp;height=65&amp;section=header&amp;text=Diploma%3A%20Big%20Data%2C%20ML%20and%20AI&amp;fontSize=22&amp;fontColor=ffffff&amp;fontAlignY=60&amp;animation=fadeIn" width="100%"/>
 
-🏫&amp;nbsp;**Belgorod State Technological University (BSTU)**&amp;nbsp;·&amp;nbsp;Russia
+🏫&nbsp;**Belgorod State Technological University (BSTU)**&nbsp;·&nbsp;Russia
 
 <img src="https://img.shields.io/badge/Hours-504-00d4ff?style=flat-square&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Additional_Diploma-grey?style=flat-square&amp;logoColor=white"/>
