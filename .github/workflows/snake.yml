@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: shroukmohamed5
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#39ff14&color_dots=#0f2247,#ffee00,#ffee00,#ffee00,#ffee00
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#39ff14&color_dots=#0f2247,#ffee00,#ffee00,#ffee00,#ffee00
+            dist/github-contribution-grid-snake.svg?color_snake=%2339ff14&color_dots=%230f2247,%23ffee00,%23ffee00,%23ffee00,%23ffee00
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2339ff14&color_dots=%230f2247,%23ffee00,%23ffee00,%23ffee00,%23ffee00
 
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4
