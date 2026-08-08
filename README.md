@@ -154,7 +154,6 @@ Software Engineer with a strong academic background in Software Engineering and 
 🏫&nbsp;**Belgorod State Technological University (BSTU)**&nbsp;·&nbsp;Russia
 
 <img src="https://img.shields.io/badge/Hours-504-00d4ff?style=flat-square&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Additional_Diploma-grey?style=flat-square&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Honors-Distinction-orange?style=flat-square&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/Graduated-2025-00e676?style=flat-square&amp;logoColor=white"/>
 
