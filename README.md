@@ -122,22 +122,15 @@ Software Engineer with a strong academic background in Software Engineering and 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shroukmohamed5&amp;background=001f3f&amp;ring=00d4ff&amp;fire=ff4500&amp;currStreakNum=00d4ff&amp;sideNums=ffffff&amp;currStreakLabel=00d4ff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" width="100%" />
 </div>
+<img width="1502" height="319" alt="image" src="https://github.com/user-attachments/assets/b5c94b74-80ae-4c6f-8969-e3f5867913a4" />
+
+
 
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shroukmohamed5/shroukmohamed5/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake animating over the years' contribution graph" />
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
-</div>
-
-## 📡 Live Followers Dashboard
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shroukmohamed5/shroukmohamed5/output/dashboard.svg" width="100%" alt="Live followers/following dashboard" />
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
