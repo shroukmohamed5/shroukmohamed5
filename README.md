@@ -122,6 +122,8 @@ Software Engineer with a strong academic background in Software Engineering and 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shroukmohamed5&amp;background=001f3f&amp;ring=00d4ff&amp;fire=ff4500&amp;currStreakNum=00d4ff&amp;sideNums=ffffff&amp;currStreakLabel=00d4ff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" width="100%" />
 </div>
+<img width="1499" height="311" alt="image" src="https://github.com/user-attachments/assets/b9b69cc0-d9ac-4f3d-bb2f-b083ce8a7a79" />
+
 
 ## 🐍 Contribution Snake
 
