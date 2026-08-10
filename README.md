@@ -27,7 +27,24 @@
 Software Engineer with a strong academic background in Software Engineering and specialized expertise in **Big Data Analysis, Machine Learning, and Artificial Intelligence**. Hands-on experience building scalable Java and Spring Boot applications, microservices architecture, and event-driven systems with Apache Kafka. Skilled in machine learning classification models, containerization (Docker, Kubernetes), and modern software engineering practices.
 
 🎓 **B.Sc. in Software Engineering** — Belgorod State Technological University (BSTU), Russia — GPA 4.92/5.0, Graduated with Honors (2026)
-🎓 **Additional Bachelor's — Big Data Analysis, ML &amp; AI** — 504 Hours, Graduated with Honors (2025)
+
+**Final Qualification Work (Bachelor's Thesis): Development of a Resume Evaluation System for an IT Company**  
+Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"**
+
+- Designed and developed an automated machine learning system for evaluating and ranking resume data tailored for IT recruitment.
+- Applied NLP and data processing techniques to parse, extract, and match candidate qualifications against technical requirements.
+- Structured relational database schemas and optimized candidate evaluation algorithms for accurate screening results.
+
+🎓 **Additional Bachelor's** — **Belgorod State Technological University (BSTU), Russia**  
+**Big Data Analysis, ML & AI** · **1-Year Program · 504 Hours** · **Graduated with Honors (2025)**
+
+**Credit Scoring Task System**  
+`Python` · `scikit-learn` · `Pandas` · `NumPy` · `Classification` · `Decision Trees`
+
+- Developed a machine learning classification model to assess creditworthiness and predict financial credit risk.
+- Performed feature engineering, decision tree analysis, and statistical preprocessing on financial datasets.
+- Evaluated and optimized model performance using **F1-score and accuracy** metrics to ensure reliability.
+
 🌍 **Languages:** Arabic (Native) · Russian (Advanced) · English (Intermediate)
 
 <div align="center">
