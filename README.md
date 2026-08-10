@@ -139,7 +139,7 @@ Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНО
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shroukmohamed5&amp;background=001f3f&amp;ring=00d4ff&amp;fire=ff4500&amp;currStreakNum=00d4ff&amp;sideNums=ffffff&amp;currStreakLabel=00d4ff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" width="100%" />
 </div>
-<img width="1506" height="138" alt="image" src="https://github.com/user-attachments/assets/3834a86c-8724-42e7-b65a-be4376a94670" />
+
 
 
 
