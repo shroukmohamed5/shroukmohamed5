@@ -26,7 +26,7 @@
 
 Software Engineer with a strong academic background in Software Engineering and specialized expertise in **Big Data Analysis, Machine Learning, and Artificial Intelligence**. Hands-on experience building scalable Java and Spring Boot applications, microservices architecture, and event-driven systems with Apache Kafka. Skilled in machine learning classification models, containerization (Docker, Kubernetes), and modern software engineering practices.
 
-🎓 **B.Sc. in Software Engineering** — Belgorod State Technological University (BSTU), Russia — GPA 4.92/5.0, Graduated with Honors (2026)
+🎓 **B.Sc. in Software Engineering** — **Belgorod State Technological University (BSTU), Russia** — **GPA 4.92/5.0, Graduated with Honors (2026)**
 
 **Final Qualification Work (Bachelor's Thesis): Development of a Resume Evaluation System for an IT Company**  
 Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"**
