@@ -8,11 +8,10 @@
   </p>
 
   <p>
-    <a href="mailto:shroukmohamed@list.ru"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/shroukmohamed5"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://huggingface.co/Shroukmohamed5"><img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-    <a href="https://t.me/shro5k"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Location-Russia-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <a href="mailto:shroukmohamed@list.ru"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://huggingface.co/Shroukmohamed5"><img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+    <a href="https://t.me/shro5k"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <img src="https://img.shields.io/badge/Location-Russia-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 </div>
 
@@ -55,9 +54,18 @@ Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНО
 
 <div align="center">
 
-| 🏗️ Languages & Core | 🌱 Spring Ecosystem | 🧠 Machine Learning, Deep Learning & AI |
-| :------------------: | :-----------------: | :-------------------------------------: |
-| <br><br><img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,mongodb&perline=5" /> | <br><br><img src="https://skillicons.dev/icons?i=spring,hibernate,kafka&perline=5" /> | <br><br><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,anaconda&perline=5" />
+<table>
+<tr>
+<th align="center">🏗️ Languages & Core</th>
+<th align="center">🌱 Spring Ecosystem</th>
+<th align="center">🧠 Machine Learning, Deep Learning & AI</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,mongodb&perline=5" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring,hibernate,kafka&perline=5" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,anaconda&perline=5" /></td>
+</tr>
+</table>
 
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -79,11 +87,21 @@ Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНО
 <img src="https://img.shields.io/badge/SBERT-FF4081?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Big_Data_Processing-00e676?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data_Analytics-00e676?style=for-the-badge" />
-<br> <br>
 
-| 🐳 DevOps & Tools | 🌐 Web & Frontend | 💻 OS |
-|:---:|:---:|:---:|
-| <br><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,grafana,prometheus&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=angular,html,css,js&perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=linux,windows&perline=5" /><br> |
+<br><br>
+
+<table>
+<tr>
+<th align="center">🐳 DevOps & Tools</th>
+<th align="center">🌐 Web & Frontend</th>
+<th align="center">💻 OS</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,grafana,prometheus&perline=7" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=angular,html,css,js&perline=5" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux,windows&perline=5" /></td>
+</tr>
+</table>
 
 </div>
 
@@ -124,20 +142,14 @@ Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНО
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shroukmohamed5&show_icons=true&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shroukmohamed5&layout=donut&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shroukmohamed5&show_icons=true&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shroukmohamed5&layout=donut&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=true" height="170" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shroukmohamed5&bg_color=001f3f&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shroukmohamed5&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shroukmohamed5&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -145,6 +157,7 @@ Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНО
 <div align="center">
   <img src="https://raw.githubusercontent.com/shroukmohamed5/shroukmohamed5/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake animating over the years' contribution graph" />
 </div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
@@ -183,7 +196,7 @@ Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНО
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shroukmohamed5&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=shroukmohamed5&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" alt="Profile Views" />
   <br /><br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="300" />
   <br>
