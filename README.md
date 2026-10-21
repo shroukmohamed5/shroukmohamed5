@@ -198,7 +198,7 @@ Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНО
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shroukmohamed5&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shroukmohamed5.shroukmohamed5&left_color=001f3f&right_color=00d4ff&left_text=PROFILE%20VIEWS" alt="Profile Views" />
   <br /><br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="300" />
   <br>
