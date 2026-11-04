@@ -41,7 +41,7 @@ Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"*
   - **Developer Dashboard:** Allows developers to configure evaluation criteria, adjust their weights, and customize the candidate-ranking algorithm.
 - Designed relational database schemas and optimized evaluation algorithms to support efficient and consistent candidate screening.
 
-🎓 **Additional Bachelor's** — **Belgorod State Technological University (BSTU), Russia**
+🎓 **Additional Professional Program** — **Belgorod State Technological University (BSTU), Russia**
 **Big Data Analysis, ML & AI** · **1-Year Program · 504 Hours** · **Graduated with Honors (2025)**
 
 **Credit Scoring Task System**
