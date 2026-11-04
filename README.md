@@ -27,14 +27,19 @@
 
 **Software Engineer** with a strong academic background in Software Engineering and specialized expertise in **Big Data Analysis, Machine Learning, and Artificial Intelligence**. Hands-on experience building scalable Java and Spring Boot applications, microservices architecture, and event-driven systems with Apache Kafka. Skilled in machine learning classification models, containerization (Docker, Kubernetes), and modern software engineering practices.
 
-🎓 **B.Sc. in Software Engineering** — **Belgorod State Technological University (BSTU), Russia** — **GPA 4.92/5.0, Graduated with Honors (2026)**
+🎓 **B.Sc. in Software Engineering** — **Belgorod State Technological University named after V.G. Shukhov (BSTU), Russia** — **GPA: 4.92/5.0, Graduated with Honors (2026)**
 
 **Final Qualification Work (Bachelor's Thesis): Development of a Resume Evaluation System for an IT Company**
-Completed during internship at IT Company **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"**
 
-- Designed and developed an automated machine learning system for evaluating and ranking resume data tailored for IT recruitment.
-- Applied NLP and data processing techniques to parse, extract, and match candidate qualifications against technical requirements.
-- Structured relational database schemas and optimized candidate evaluation algorithms for accurate screening results.
+Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"**.
+
+- Designed and developed an automated Machine Learning system for evaluating and ranking resumes for IT recruitment.
+- Applied Natural Language Processing (NLP) and data processing techniques to extract candidate qualifications and match them against technical job requirements.
+- Implemented an optimized resume-ranking pipeline capable of processing and ranking approximately **15,000 resumes in 3 seconds** under the tested environment.
+- Developed two interactive interfaces using **Streamlit**:
+  - **HR Dashboard:** Enables HR professionals to review resumes, evaluate candidates, and rank applicants based on job requirements.
+  - **Developer Dashboard:** Allows developers to configure evaluation criteria, adjust their weights, and customize the candidate-ranking algorithm.
+- Designed relational database schemas and optimized evaluation algorithms to support efficient and consistent candidate screening.
 
 🎓 **Additional Bachelor's** — **Belgorod State Technological University (BSTU), Russia**
 **Big Data Analysis, ML & AI** · **1-Year Program · 504 Hours** · **Graduated with Honors (2025)**
