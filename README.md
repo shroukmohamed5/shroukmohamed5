@@ -124,98 +124,280 @@ Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"*
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Public_Repos-39-00d4ff?style=for-the-badge&labelColor=001f3f" />
-<img src="https://img.shields.io/badge/Domains-AI_%26_ML_%C2%B7_Backend_%C2%B7_Web_%C2%B7_Low--level-6C3EF4?style=for-the-badge&labelColor=001f3f" />
-<a href="https://github.com/shroukmohamed5?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_Repositories-%E2%86%92-00e676?style=for-the-badge&labelColor=001f3f" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:6C3EF4,100:00d4ff&height=170&section=header&text=Featured%20Projects&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=37%20repositories%20%C2%B7%206%20domains%20%C2%B7%20from%20AI%20to%20Assembly&descSize=18&descAlignY=63&animation=twinkling" width="100%" alt="Featured Projects"/>
 
-<sub>📂 Projects are grouped by domain — click a section to expand / collapse it.</sub>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-6C3EF4?style=for-the-badge&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Backend-00c853?style=for-the-badge&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Coursework-FF4081?style=for-the-badge&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Web-FF6F00?style=for-the-badge&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Low--Level-FF1744?style=for-the-badge&labelColor=0d1117"/>
+
+<br><br>
+
+<a href="https://github.com/shroukmohamed5?tab=repositories"><img src="https://img.shields.io/badge/Browse_All_39_Repositories-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+
+<sub>📂 Click any banner to expand / collapse its section</sub>
+
+<details open>
+<summary><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3EF4,100:00d4ff&height=140&section=header&text=AI%20%26%20Machine%20Learning&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Computer%20Vision%20%C2%B7%20NLP%20%C2%B7%20Deep%20Learning%20%C2%B7%20Simulation&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="AI & Machine Learning"/></summary>
+
+<br>
+
+<table width="100%">
+<tr><th width="31%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3EF4,100:00d4ff&height=40&section=header&text=PROJECT&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="PROJECT"/></th><th width="44%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3EF4,100:00d4ff&height=40&section=header&text=DESCRIPTION&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="DESCRIPTION"/></th><th width="25%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C3EF4,100:00d4ff&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="TECH STACK"/></th></tr>
+<tr>
+<td valign="middle"><b>🧠&nbsp;<a href="https://github.com/shroukmohamed5/ML-Resume-Ranker">ML Resume Ranker</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/ML-Resume-Ranker?style=flat-square&logo=github&label=Stars&color=00d4ff&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/ML-Resume-Ranker?style=flat-square&label=Updated&color=00d4ff&labelColor=0d1117"/></td>
+<td valign="middle">Bachelor's Thesis — automated ML system that evaluates &amp; ranks resumes for IT recruitment using NLP, with HR &amp; Developer dashboards</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/NLP-00d4ff?style=flat-square&labelColor=0d1117" alt="NLP"/> <img src="https://img.shields.io/badge/ML-6C3EF4?style=flat-square&labelColor=0d1117" alt="ML"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&labelColor=0d1117&logo=streamlit&logoColor=white" alt="Streamlit"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🚗&nbsp;<a href="https://github.com/shroukmohamed5/Drowsy-Driver-Detection-Intelligent-Emergency-V2V">Drowsy Driver Detection &amp; Emergency V2V</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Drowsy-Driver-Detection-Intelligent-Emergency-V2V?style=flat-square&logo=github&label=Stars&color=00d4ff&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Drowsy-Driver-Detection-Intelligent-Emergency-V2V?style=flat-square&label=Updated&color=00d4ff&labelColor=0d1117"/></td>
+<td valign="middle">Master's project — real-time drowsiness detection from webcam feeding intelligent emergency V2V communication across multiple vehicles in <b>CARLA</b> and <b>SUMO/TraCI</b> simulation, with a live Streamlit dashboard</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&labelColor=0d1117&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/CARLA-1F6FEB?style=flat-square&labelColor=0d1117" alt="CARLA"/> <img src="https://img.shields.io/badge/SUMO__/__TraCI-00bfa5?style=flat-square&labelColor=0d1117" alt="SUMO_/_TraCI"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&labelColor=0d1117&logo=streamlit&logoColor=white" alt="Streamlit"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>📉&nbsp;<a href="https://github.com/shroukmohamed5/Telco-churn">Telco Customer Churn</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Telco-churn?style=flat-square&logo=github&label=Stars&color=00d4ff&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Telco-churn?style=flat-square&label=Updated&color=00d4ff&labelColor=0d1117"/></td>
+<td valign="middle">Churn prediction — 7 models compared, GridSearchCV tuning, best model deployed in an interactive app</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&labelColor=0d1117&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&labelColor=0d1117&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&labelColor=0d1117&logo=streamlit&logoColor=white" alt="Streamlit"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>📊&nbsp;<a href="https://github.com/shroukmohamed5/Big-Data-Project">Big Data Project</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Big-Data-Project?style=flat-square&logo=github&label=Stars&color=00d4ff&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Big-Data-Project?style=flat-square&label=Updated&color=00d4ff&labelColor=0d1117"/></td>
+<td valign="middle">Credit scoring classification model for financial risk assessment</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&labelColor=0d1117&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&labelColor=0d1117&logo=pandas&logoColor=white" alt="Pandas"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🧬&nbsp;<a href="https://github.com/shroukmohamed5/Ann-breast-cancer-classification">Breast Cancer ANN</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Ann-breast-cancer-classification?style=flat-square&logo=github&label=Stars&color=00d4ff&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Ann-breast-cancer-classification?style=flat-square&label=Updated&color=00d4ff&labelColor=0d1117"/></td>
+<td valign="middle">End-to-end neural network for malignant vs benign tumor classification with leakage-free validation</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&labelColor=0d1117&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&labelColor=0d1117&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🩺&nbsp;<a href="https://github.com/shroukmohamed5/Stroke-Prediction-Analysis">Stroke Prediction Analysis</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Stroke-Prediction-Analysis?style=flat-square&logo=github&label=Stars&color=00d4ff&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Stroke-Prediction-Analysis?style=flat-square&label=Updated&color=00d4ff&labelColor=0d1117"/></td>
+<td valign="middle">Healthcare data cleaning, feature transformation, EDA &amp; ML to uncover stroke risk factors</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&labelColor=0d1117&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&labelColor=0d1117&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/EDA-00e676?style=flat-square&labelColor=0d1117" alt="EDA"/></td>
+</tr>
+</table>
+
+<br>
+
+</details>
+
+<details open>
+<summary><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:00b8d4&height=140&section=header&text=Backend%20%26%20Microservices&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Spring%20Cloud%20%C2%B7%20Kafka%20%C2%B7%20Docker%20%C2%B7%20Keycloak&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Backend & Microservices"/></summary>
+
+<br>
+
+<table width="100%">
+<tr><th width="31%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:00b8d4&height=40&section=header&text=PROJECT&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="PROJECT"/></th><th width="44%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:00b8d4&height=40&section=header&text=DESCRIPTION&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="DESCRIPTION"/></th><th width="25%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,100:00b8d4&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="TECH STACK"/></th></tr>
+<tr>
+<td valign="middle"><b>🛒&nbsp;<a href="https://github.com/shroukmohamed5/Full-Stack-E-Commerce-System-using-Spring-Boot-Microservices-Angular">Full-Stack E-Commerce Microservices</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Full-Stack-E-Commerce-System-using-Spring-Boot-Microservices-Angular?style=flat-square&logo=github&label=Stars&color=00e676&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Full-Stack-E-Commerce-System-using-Spring-Boot-Microservices-Angular?style=flat-square&label=Updated&color=00e676&labelColor=0d1117"/></td>
+<td valign="middle">Product, order, inventory &amp; notification microservices with Gateway, Keycloak auth and Kafka messaging</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Spring__Cloud-6DB33F?style=flat-square&labelColor=0d1117&logo=spring&logoColor=white" alt="Spring_Cloud"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&labelColor=0d1117&logo=apachekafka&logoColor=white" alt="Kafka"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&labelColor=0d1117&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0d1117&logo=docker&logoColor=white" alt="Docker"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🏦&nbsp;<a href="https://github.com/shroukmohamed5/bank-">Banking Microservices</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/bank-?style=flat-square&logo=github&label=Stars&color=00e676&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/bank-?style=flat-square&label=Updated&color=00e676&labelColor=0d1117"/></td>
+<td valign="middle">Banking platform with Customer, Account &amp; Card services in a microservices architecture</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring__Boot-6DB33F?style=flat-square&labelColor=0d1117&logo=spring&logoColor=white" alt="Spring_Boot"/> <img src="https://img.shields.io/badge/Microservices-00e676?style=flat-square&labelColor=0d1117" alt="Microservices"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>👥&nbsp;<a href="https://github.com/shroukmohamed5/Employee-Management-System">Employee Management System</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Employee-Management-System?style=flat-square&logo=github&label=Stars&color=00e676&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Employee-Management-System?style=flat-square&label=Updated&color=00e676&labelColor=0d1117"/></td>
+<td valign="middle">Full-stack employee management — REST API with full CRUD &amp; RBAC authentication, Angular frontend, Dockerized</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Spring__Data__JPA-6DB33F?style=flat-square&labelColor=0d1117&logo=spring&logoColor=white" alt="Spring_Data_JPA"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&labelColor=0d1117&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&labelColor=0d1117&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0d1117&logo=docker&logoColor=white" alt="Docker"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>📨&nbsp;<a href="https://github.com/shroukmohamed5/KAFKA-Spring-Boot-Docker-Postman-">Kafka Spring Boot Messaging</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/KAFKA-Spring-Boot-Docker-Postman-?style=flat-square&logo=github&label=Stars&color=00e676&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/KAFKA-Spring-Boot-Docker-Postman-?style=flat-square&label=Updated&color=00e676&labelColor=0d1117"/></td>
+<td valign="middle">Event-driven messaging system with dedicated Kafka producer/consumer services</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&labelColor=0d1117&logo=apachekafka&logoColor=white" alt="Kafka"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0d1117&logo=docker&logoColor=white" alt="Docker"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🐳&nbsp;<a href="https://github.com/shroukmohamed5/Backend-Java-With-Docker-Compose-Spring-Boot-">Backend Java + Docker Compose</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Backend-Java-With-Docker-Compose-Spring-Boot-?style=flat-square&logo=github&label=Stars&color=00e676&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Backend-Java-With-Docker-Compose-Spring-Boot-?style=flat-square&label=Updated&color=00e676&labelColor=0d1117"/></td>
+<td valign="middle">Multi-container application environment</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Docker__Compose-2496ED?style=flat-square&labelColor=0d1117&logo=docker&logoColor=white" alt="Docker_Compose"/> <img src="https://img.shields.io/badge/Spring__Boot-6DB33F?style=flat-square&labelColor=0d1117&logo=spring&logoColor=white" alt="Spring_Boot"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🌿&nbsp;<a href="https://github.com/shroukmohamed5/Spring-_Boot-_With-Git-">Spring Boot + Git Workflow</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Spring-_Boot-_With-Git-?style=flat-square&logo=github&label=Stars&color=00e676&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Spring-_Boot-_With-Git-?style=flat-square&label=Updated&color=00e676&labelColor=0d1117"/></td>
+<td valign="middle">Professional feature-branching &amp; semantic versioning workflow</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Spring__Boot-6DB33F?style=flat-square&labelColor=0d1117&logo=spring&logoColor=white" alt="Spring_Boot"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&labelColor=0d1117&logo=git&logoColor=white" alt="Git"/></td>
+</tr>
+</table>
+
+<br>
+
+</details>
+
+<details>
+<summary><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4081,100:FF6F00&height=140&section=header&text=ML%20Coursework&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Classical%20ML%20%C2%B7%20Neural%20Networks%20%C2%B7%20Data%20Science&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="ML Coursework"/></summary>
+
+<br>
+
+<table width="100%">
+<tr><th width="31%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4081,100:FF6F00&height=40&section=header&text=PROJECT&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="PROJECT"/></th><th width="44%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4081,100:FF6F00&height=40&section=header&text=DESCRIPTION&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="DESCRIPTION"/></th><th width="25%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4081,100:FF6F00&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="TECH STACK"/></th></tr>
+<tr>
+<td valign="middle"><b>🌳&nbsp;<a href="https://github.com/shroukmohamed5/TREES">Trees, Bagging, Boosting &amp; PCA</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/TREES?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/TREES?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">Decision Trees, Random Forest, Gradient Boosting, XGBoost, PCA &amp; feature selection on the Dry Bean dataset</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&labelColor=0d1117&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&labelColor=0d1117" alt="XGBoost"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🎯&nbsp;<a href="https://github.com/shroukmohamed5/KNN">KNN Classification</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/KNN?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/KNN?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">K-Nearest Neighbors on the Dry Bean dataset — from data understanding to confusion matrix</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&labelColor=0d1117&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🧮&nbsp;<a href="https://github.com/shroukmohamed5/SVM">SVM Classification</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/SVM?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/SVM?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">SVM on Pima Indians Diabetes — kernels, GridSearchCV tuning &amp; noise robustness</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&labelColor=0d1117&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🔵&nbsp;<a href="https://github.com/shroukmohamed5/Clustering">Clustering</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Clustering?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Clustering?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">K-Means &amp; DBSCAN customer segmentation on Mall Customers data</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&labelColor=0d1117&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&labelColor=0d1117&logo=plotly&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>📈&nbsp;<a href="https://github.com/shroukmohamed5/Regression-Assignment-Solution">Regression &amp; EDA</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Regression-Assignment-Solution?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Regression-Assignment-Solution?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">Exploratory analysis and regression on Student Performance &amp; House Sales datasets</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&labelColor=0d1117&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&labelColor=0d1117&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/EDA-00e676?style=flat-square&labelColor=0d1117" alt="EDA"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>⚡&nbsp;<a href="https://github.com/shroukmohamed5/Single-Layer-Neural-Networks-Hebb-s-Rule">Single-Layer NN — Hebb's Rule</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Single-Layer-Neural-Networks-Hebb-s-Rule?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Single-Layer-Neural-Networks-Hebb-s-Rule?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">Single-layer neural network trained with Hebb's rule, implemented from scratch</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&labelColor=0d1117&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🔬&nbsp;<a href="https://github.com/shroukmohamed5/Neuron-Pattern-Recognition">Neuron Pattern Recognition</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Neuron-Pattern-Recognition?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Neuron-Pattern-Recognition?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">Single neuron + Hebb's rule classifying custom 5×5 pixel-art letters</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&labelColor=0d1117&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&labelColor=0d1117&logo=plotly&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🐼&nbsp;<a href="https://github.com/shroukmohamed5/Pandas-Data-Analysis-Assignment">Pandas Data Analysis</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Pandas-Data-Analysis-Assignment?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Pandas-Data-Analysis-Assignment?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">Data manipulation &amp; analysis assignment with Pandas</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&labelColor=0d1117&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🔢&nbsp;<a href="https://github.com/shroukmohamed5/NumPy-Assignment">NumPy Assignment</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/NumPy-Assignment?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/NumPy-Assignment?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">Array operations &amp; numerical computing exercises</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&labelColor=0d1117&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🐍&nbsp;<a href="https://github.com/shroukmohamed5/python-problem-solving">Python Problem Solving</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/python-problem-solving?style=flat-square&logo=github&label=Stars&color=FF4081&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/python-problem-solving?style=flat-square&label=Updated&color=FF4081&labelColor=0d1117"/></td>
+<td valign="middle">15 Python problems: strings, lists, loops, functions &amp; dictionaries</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" alt="Jupyter"/></td>
+</tr>
+</table>
+
+<br>
+
+</details>
+
+<details>
+<summary><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F00,100:FFD21E&height=140&section=header&text=Web%20%26%20Applications&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Landing%20pages%20%C2%B7%20Full-stack%20%C2%B7%20Management%20systems&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Web & Applications"/></summary>
+
+<br>
+
+<table width="100%">
+<tr><th width="31%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6F00,100:FFD21E&height=40&section=header&text=PROJECT&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="PROJECT"/></th><th width="44%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6F00,100:FFD21E&height=40&section=header&text=DESCRIPTION&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="DESCRIPTION"/></th><th width="25%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6F00,100:FFD21E&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="TECH STACK"/></th></tr>
+<tr>
+<td valign="middle"><b>🥐&nbsp;<a href="https://github.com/shroukmohamed5/Premium-Boulangerie">Premium Boulangerie</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Premium-Boulangerie?style=flat-square&logo=github&label=Stars&color=FFB300&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Premium-Boulangerie?style=flat-square&label=Updated&color=FFB300&labelColor=0d1117"/></td>
+<td valign="middle">Luxury bakery landing page — single-file, responsive, photo-driven design</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&labelColor=0d1117&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&labelColor=0d1117&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&labelColor=0d1117&logo=javascript&logoColor=black" alt="JavaScript"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🌐&nbsp;<a href="https://github.com/shroukmohamed5/PROJECT-WEB-MERN-STACK-WITH-DOCKER-">MERN Stack + Docker</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/PROJECT-WEB-MERN-STACK-WITH-DOCKER-?style=flat-square&logo=github&label=Stars&color=FFB300&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/PROJECT-WEB-MERN-STACK-WITH-DOCKER-?style=flat-square&label=Updated&color=FFB300&labelColor=0d1117"/></td>
+<td valign="middle">Full-stack web project containerized with Docker</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&labelColor=0d1117&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=0d1117&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&labelColor=0d1117&logo=docker&logoColor=white" alt="Docker"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🅿️&nbsp;<a href="https://github.com/shroukmohamed5/Parking-Payment-Site">Parking Payment Site</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Parking-Payment-Site?style=flat-square&logo=github&label=Stars&color=FFB300&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Parking-Payment-Site?style=flat-square&label=Updated&color=FFB300&labelColor=0d1117"/></td>
+<td valign="middle">Web application for parking payment management</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Web-00d4ff?style=flat-square&labelColor=0d1117" alt="Web"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🏫&nbsp;<a href="https://github.com/shroukmohamed5/school.py">School Management System</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/school.py?style=flat-square&logo=github&label=Stars&color=FFB300&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/school.py?style=flat-square&label=Updated&color=FFB300&labelColor=0d1117"/></td>
+<td valign="middle">Manage students, teachers &amp; courses — add, modify and delete records</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🦷&nbsp;<a href="https://github.com/shroukmohamed5/Dentistry-Clinic-Management">Dentistry Clinic Management</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Dentistry-Clinic-Management?style=flat-square&logo=github&label=Stars&color=FFB300&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Dentistry-Clinic-Management?style=flat-square&label=Updated&color=FFB300&labelColor=0d1117"/></td>
+<td valign="middle">Clinic management application built in Python</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/></td>
+</tr>
+</table>
+
+<br>
+
+</details>
+
+<details>
+<summary><img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:FFD43B&height=140&section=header&text=Python%20Tools%20%26%20Games&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Bots%20%C2%B7%20Networking%20%C2%B7%20Game%20development&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Python Tools & Games"/></summary>
+
+<br>
+
+<table width="100%">
+<tr><th width="31%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:FFD43B&height=40&section=header&text=PROJECT&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="PROJECT"/></th><th width="44%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:FFD43B&height=40&section=header&text=DESCRIPTION&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="DESCRIPTION"/></th><th width="25%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:3776AB,100:FFD43B&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="TECH STACK"/></th></tr>
+<tr>
+<td valign="middle"><b>🤖&nbsp;<a href="https://github.com/shroukmohamed5/bot-telegram">Telegram Bot</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/bot-telegram?style=flat-square&logo=github&label=Stars&color=4FA3E0&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/bot-telegram?style=flat-square&label=Updated&color=4FA3E0&labelColor=0d1117"/></td>
+<td valign="middle">Automated Telegram bot</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Telegram__Bot-26A5E4?style=flat-square&labelColor=0d1117&logo=telegram&logoColor=white" alt="Telegram_Bot"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>📡&nbsp;<a href="https://github.com/shroukmohamed5/project-ping-by-python">Ping Project</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/project-ping-by-python?style=flat-square&logo=github&label=Stars&color=4FA3E0&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/project-ping-by-python?style=flat-square&label=Updated&color=4FA3E0&labelColor=0d1117"/></td>
+<td valign="middle">Network ping utility built in Python</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Networking-00d4ff?style=flat-square&labelColor=0d1117" alt="Networking"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>♟️&nbsp;<a href="https://github.com/shroukmohamed5/chess.py">Chess</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/chess.py?style=flat-square&logo=github&label=Stars&color=4FA3E0&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/chess.py?style=flat-square&label=Updated&color=4FA3E0&labelColor=0d1117"/></td>
+<td valign="middle">Play chess online</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Game__Dev-FF4081?style=flat-square&labelColor=0d1117" alt="Game_Dev"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🐍&nbsp;<a href="https://github.com/shroukmohamed5/game-snak-python">Snake Game</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/game-snak-python?style=flat-square&logo=github&label=Stars&color=4FA3E0&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/game-snak-python?style=flat-square&label=Updated&color=4FA3E0&labelColor=0d1117"/></td>
+<td valign="middle">Classic snake game in Python</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Game__Dev-FF4081?style=flat-square&labelColor=0d1117" alt="Game_Dev"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>❌&nbsp;<a href="https://github.com/shroukmohamed5/game-x-o-python">Tic-Tac-Toe</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/game-x-o-python?style=flat-square&logo=github&label=Stars&color=4FA3E0&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/game-x-o-python?style=flat-square&label=Updated&color=4FA3E0&labelColor=0d1117"/></td>
+<td valign="middle">X-O game in Python</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Game__Dev-FF4081?style=flat-square&labelColor=0d1117" alt="Game_Dev"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🎮&nbsp;<a href="https://github.com/shroukmohamed5/Minecraft">Minecraft</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Minecraft?style=flat-square&logo=github&label=Stars&color=4FA3E0&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Minecraft?style=flat-square&label=Updated&color=4FA3E0&labelColor=0d1117"/></td>
+<td valign="middle">Java-based Minecraft project</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Game__Dev-FF4081?style=flat-square&labelColor=0d1117" alt="Game_Dev"/></td>
+</tr>
+</table>
+
+<br>
+
+</details>
+
+<details>
+<summary><img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:7B1FA2&height=140&section=header&text=Low-Level%20%26%20Systems&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Assembly%20%C2%B7%20C%20%C2%B7%20Graphics&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Low-Level & Systems"/></summary>
+
+<br>
+
+<table width="100%">
+<tr><th width="31%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,100:7B1FA2&height=40&section=header&text=PROJECT&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="PROJECT"/></th><th width="44%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,100:7B1FA2&height=40&section=header&text=DESCRIPTION&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="DESCRIPTION"/></th><th width="25%"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,100:7B1FA2&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=55" width="100%" alt="TECH STACK"/></th></tr>
+<tr>
+<td valign="middle"><b>⚙️&nbsp;<a href="https://github.com/shroukmohamed5/Assembly-Language">Assembly Language</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Assembly-Language?style=flat-square&logo=github&label=Stars&color=FF5252&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Assembly-Language?style=flat-square&label=Updated&color=FF5252&labelColor=0d1117"/></td>
+<td valign="middle">Low-level programming exercises</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Assembly-B8860B?style=flat-square&labelColor=0d1117" alt="Assembly"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🧱&nbsp;<a href="https://github.com/shroukmohamed5/Assembly-Language-Labs">Assembly Language Labs</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/Assembly-Language-Labs?style=flat-square&logo=github&label=Stars&color=FF5252&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/Assembly-Language-Labs?style=flat-square&label=Updated&color=FF5252&labelColor=0d1117"/></td>
+<td valign="middle">University assembly lab assignments</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/Assembly-B8860B?style=flat-square&labelColor=0d1117" alt="Assembly"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🔧&nbsp;<a href="https://github.com/shroukmohamed5/C-">C Programming</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/C-?style=flat-square&logo=github&label=Stars&color=FF5252&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/C-?style=flat-square&label=Updated&color=FF5252&labelColor=0d1117"/></td>
+<td valign="middle">C programming exercises</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&labelColor=0d1117&logo=c&logoColor=black" alt="C"/></td>
+</tr>
+<tr>
+<td valign="middle"><b>🪑&nbsp;<a href="https://github.com/shroukmohamed5/c-open-gel-CHAIR">C OpenGL Chair</a></b><br><img src="https://img.shields.io/github/stars/shroukmohamed5/c-open-gel-CHAIR?style=flat-square&logo=github&label=Stars&color=FF5252&labelColor=0d1117"/><br><img src="https://img.shields.io/github/last-commit/shroukmohamed5/c-open-gel-CHAIR?style=flat-square&label=Updated&color=FF5252&labelColor=0d1117"/></td>
+<td valign="middle">C graphics project — a 3D chair model</td>
+<td align="center" valign="middle"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&labelColor=0d1117&logo=c&logoColor=black" alt="C"/></td>
+</tr>
+</table>
+
+<br>
+
+</details>
 
 </div>
-
-<details open>
-<summary><b>🧠 AI, Machine Learning & Computer Vision</b></summary>
-
-| Project | Description | Core Technology |
-| :--- | :--- | :---: |
-| 🧠 [**ML Resume Ranker**](https://github.com/shroukmohamed5/ML-Resume-Ranker)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/ML-Resume-Ranker?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Bachelor's Thesis — automated ML system to evaluate & rank resumes for IT recruitment using NLP | ![NLP](https://img.shields.io/badge/NLP-00d4ff?style=flat-square) ![ML](https://img.shields.io/badge/ML-00d4ff?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| 🚗 [**Drowsy Driver Detection & Emergency V2V**](https://github.com/shroukmohamed5/Drowsy-Driver-Detection-Intelligent-Emergency-V2V)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Drowsy-Driver-Detection-Intelligent-Emergency-V2V?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Master's project — real-time drowsiness detection from webcam with intelligent emergency V2V communication in a multi-vehicle simulation and live dashboard | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![SUMO_/_TraCI](https://img.shields.io/badge/SUMO__/__TraCI-00d4ff?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| 📉 [**Telco Customer Churn**](https://github.com/shroukmohamed5/Telco-churn)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Telco-churn?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Churn prediction — 7 models compared, GridSearchCV tuning, best model deployed in an interactive app | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| 📊 [**Big Data Project**](https://github.com/shroukmohamed5/Big-Data-Project)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Big-Data-Project?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Credit scoring classification model for financial risk assessment | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| 🧬 [**Breast Cancer ANN**](https://github.com/shroukmohamed5/Ann-breast-cancer-classification)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Ann-breast-cancer-classification?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | End-to-end neural network for malignant vs benign tumor classification with leakage-free validation methodology | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 🩺 [**Stroke Prediction Analysis**](https://github.com/shroukmohamed5/Stroke-Prediction-Analysis)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Stroke-Prediction-Analysis?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Healthcare data cleaning, feature transformation, EDA & ML to uncover stroke risk factors | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-00e676?style=flat-square) |
-
-</details>
-
-<details>
-<summary><b>🔬 ML Coursework & Data Science Foundations</b></summary>
-
-| Project | Description | Core Technology |
-| :--- | :--- | :---: |
-| 🌳 [**Trees, Bagging, Boosting & PCA**](https://github.com/shroukmohamed5/TREES)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/TREES?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Decision Trees, Random Forest, Gradient Boosting, XGBoost, PCA & feature selection on the Dry Bean dataset | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 🎯 [**KNN Classification**](https://github.com/shroukmohamed5/KNN)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/KNN?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | K-Nearest Neighbors on the Dry Bean dataset — from data understanding to confusion matrix | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 🧮 [**SVM Classification**](https://github.com/shroukmohamed5/SVM)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/SVM?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | SVM on Pima Indians Diabetes — kernels, GridSearchCV tuning & noise robustness | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 🔵 [**Clustering**](https://github.com/shroukmohamed5/Clustering)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Clustering?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | K-Means & DBSCAN customer segmentation on Mall Customers data | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 📈 [**Regression & EDA**](https://github.com/shroukmohamed5/Regression-Assignment-Solution)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Regression-Assignment-Solution?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Exploratory analysis and regression on Student Performance & House Sales datasets | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![EDA](https://img.shields.io/badge/EDA-00e676?style=flat-square) |
-| ⚡ [**Single-Layer NN — Hebb's Rule**](https://github.com/shroukmohamed5/Single-Layer-Neural-Networks-Hebb-s-Rule)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Single-Layer-Neural-Networks-Hebb-s-Rule?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Single-layer neural network trained with Hebb's rule, implemented from scratch | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 🔬 [**Neuron Pattern Recognition**](https://github.com/shroukmohamed5/Neuron-Pattern-Recognition)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Neuron-Pattern-Recognition?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Single neuron + Hebb's rule classifying custom 5×5 pixel-art letters | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 🐼 [**Pandas Data Analysis**](https://github.com/shroukmohamed5/Pandas-Data-Analysis-Assignment)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Pandas-Data-Analysis-Assignment?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Data manipulation & analysis assignment with Pandas | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 🔢 [**NumPy Assignment**](https://github.com/shroukmohamed5/NumPy-Assignment)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/NumPy-Assignment?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Array operations & numerical computing exercises with NumPy | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| 🐍 [**Python Problem Solving**](https://github.com/shroukmohamed5/python-problem-solving)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/python-problem-solving?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | 15 Python problems covering strings, lists, loops, functions & dictionaries | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-
-</details>
-
-<details open>
-<summary><b>☕ Backend, Microservices & DevOps</b></summary>
-
-| Project | Description | Core Technology |
-| :--- | :--- | :---: |
-| 🛒 [**Full-Stack E-Commerce Microservices**](https://github.com/shroukmohamed5/Full-Stack-E-Commerce-System-using-Spring-Boot-Microservices-Angular)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Full-Stack-E-Commerce-System-using-Spring-Boot-Microservices-Angular?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Product, order, inventory & notification microservices with Gateway, Keycloak auth, Kafka messaging | ![Spring_Cloud](https://img.shields.io/badge/Spring__Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| 🏦 [**Banking Microservices**](https://github.com/shroukmohamed5/bank-)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/bank-?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Banking platform with Customer, Account & Card services in a microservices architecture | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring_Boot](https://img.shields.io/badge/Spring__Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-00e676?style=flat-square) |
-| 👥 [**Employee Management System**](https://github.com/shroukmohamed5/Employee-Management-System)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Employee-Management-System?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Full-stack employee management — REST API with full CRUD & RBAC authentication, Angular frontend, Dockerized | ![Spring_Data_JPA](https://img.shields.io/badge/Spring__Data__JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| 📨 [**Kafka Spring Boot Messaging**](https://github.com/shroukmohamed5/KAFKA-Spring-Boot-Docker-Postman-)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/KAFKA-Spring-Boot-Docker-Postman-?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Event-driven messaging system with dedicated Kafka producer/consumer services | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| 🐳 [**Backend Java + Docker Compose**](https://github.com/shroukmohamed5/Backend-Java-With-Docker-Compose-Spring-Boot-)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Backend-Java-With-Docker-Compose-Spring-Boot-?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Multi-container application environment | ![Docker_Compose](https://img.shields.io/badge/Docker__Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Spring_Boot](https://img.shields.io/badge/Spring__Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) |
-| 🌿 [**Spring Boot + Git Workflow**](https://github.com/shroukmohamed5/Spring-_Boot-_With-Git-)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Spring-_Boot-_With-Git-?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Professional feature-branching & semantic versioning workflow | ![Spring_Boot](https://img.shields.io/badge/Spring__Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-</details>
-
-<details>
-<summary><b>🌐 Web & Applications</b></summary>
-
-| Project | Description | Core Technology |
-| :--- | :--- | :---: |
-| 🥐 [**Premium Boulangerie**](https://github.com/shroukmohamed5/Premium-Boulangerie)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Premium-Boulangerie?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Luxury bakery landing page — single-file, responsive, photo-driven design | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🌐 [**MERN Stack + Docker**](https://github.com/shroukmohamed5/PROJECT-WEB-MERN-STACK-WITH-DOCKER-)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/PROJECT-WEB-MERN-STACK-WITH-DOCKER-?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Full-stack web project containerized with Docker | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| 🅿️ [**Parking Payment Site**](https://github.com/shroukmohamed5/Parking-Payment-Site)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Parking-Payment-Site?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Web application for parking payment management | ![Web](https://img.shields.io/badge/Web-00d4ff?style=flat-square) |
-| 🏫 [**School Management System**](https://github.com/shroukmohamed5/school.py)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/school.py?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Manage students, teachers & courses — add, modify and delete records | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🦷 [**Dentistry Clinic Management**](https://github.com/shroukmohamed5/Dentistry-Clinic-Management)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Dentistry-Clinic-Management?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Clinic management application built in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-</details>
-
-<details>
-<summary><b>🐍 Python Tools, Bots & Games</b></summary>
-
-| Project | Description | Core Technology |
-| :--- | :--- | :---: |
-| 🤖 [**Telegram Bot**](https://github.com/shroukmohamed5/bot-telegram)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/bot-telegram?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Automated Telegram bot | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram_Bot](https://img.shields.io/badge/Telegram__Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
-| 📡 [**Ping Project**](https://github.com/shroukmohamed5/project-ping-by-python)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/project-ping-by-python?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Network ping utility built in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-00d4ff?style=flat-square) |
-| ♟️ [**Chess**](https://github.com/shroukmohamed5/chess.py)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/chess.py?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Play chess online | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Game_Dev](https://img.shields.io/badge/Game__Dev-FF4081?style=flat-square) |
-| 🐍 [**Snake Game**](https://github.com/shroukmohamed5/game-snak-python)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/game-snak-python?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Classic snake game in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Game_Dev](https://img.shields.io/badge/Game__Dev-FF4081?style=flat-square) |
-| ❌ [**Tic-Tac-Toe**](https://github.com/shroukmohamed5/game-x-o-python)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/game-x-o-python?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | X-O game in Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Game_Dev](https://img.shields.io/badge/Game__Dev-FF4081?style=flat-square) |
-| 🎮 [**Minecraft**](https://github.com/shroukmohamed5/Minecraft)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Minecraft?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Java-based Minecraft project | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Game_Dev](https://img.shields.io/badge/Game__Dev-FF4081?style=flat-square) |
-
-</details>
-
-<details>
-<summary><b>⚙️ Low-Level & Systems Programming</b></summary>
-
-| Project | Description | Core Technology |
-| :--- | :--- | :---: |
-| ⚙️ [**Assembly Language**](https://github.com/shroukmohamed5/Assembly-Language)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Assembly-Language?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | Low-level programming exercises | ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square) |
-| 🧱 [**Assembly Language Labs**](https://github.com/shroukmohamed5/Assembly-Language-Labs)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/Assembly-Language-Labs?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | University assembly lab assignments | ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square) |
-| 🔧 [**C Programming**](https://github.com/shroukmohamed5/C-)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/C-?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | C programming exercises | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| 🪑 [**C OpenGL Chair**](https://github.com/shroukmohamed5/c-open-gel-CHAIR)<br>![stars](https://img.shields.io/github/stars/shroukmohamed5/c-open-gel-CHAIR?style=flat-square&color=00d4ff&label=%E2%AD%90&labelColor=001f3f) | C graphics project — a 3D chair model | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-
-</details>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
