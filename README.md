@@ -228,6 +228,18 @@ Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"*
 
 <table>
 <tr>
+<td align="center" colspan="2">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2247,100:6C3EF4&height=65&section=header&text=M.Sc.%20Intelligent%20Systems&fontSize=22&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
+
+🏫&nbsp;**Belgorod State Technological University (BSTU)**&nbsp;·&nbsp;Russia
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-FFD21E?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Started-2026-6C3EF4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Studies-Ongoing-orange?style=flat-square&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
 <td align="center" width="50%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2247,100:00d4ff&height=65&section=header&text=B.Sc.%20Software%20Engineering&fontSize=22&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
 
