@@ -21,6 +21,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
+<div align="center">
+  <img src="matrix-skull.gif" height="260" alt="Matrix skull animation" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="matrix-walker.gif" height="260" alt="Matrix walker animation" />
+</div>
+
+<br>
+
 ## 👩‍💻 About Me
 
 🎓 **Master's Student in Intelligent Systems** — **Belgorod State Technological University (BSTU), Russia** | **2026–Present**
