@@ -20,6 +20,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
+<div align="center">
+  <img src="./circuit-banner-full-hq.gif" width="100%" alt="Circuit Banner" />
+</div>
 
 ## 👩‍💻 About Me
 
