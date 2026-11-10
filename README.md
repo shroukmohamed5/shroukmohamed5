@@ -15,9 +15,12 @@
   </p>
 </div>
 
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
+
 
 ## 👩‍💻 About Me
 
@@ -39,10 +42,10 @@ Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"*
   - **Developer Dashboard:** Allows developers to configure evaluation criteria, adjust their weights, and customize the candidate-ranking algorithm.
 - Designed relational database schemas and optimized evaluation algorithms to support efficient and consistent candidate screening.
 
-🎓 **Additional Professional Program** — **Belgorod State Technological University (BSTU), Russia**<br>
+🎓 **Additional Professional Program** — **Belgorod State Technological University (BSTU), Russia**
 **Big Data Analysis, ML & AI** · **1-Year Program · 504 Hours** · **Graduated with Honors (2025)**
 
-**Credit Scoring Task System**<br>
+**Credit Scoring Task System**
 `Python` · `scikit-learn` · `Pandas` · `NumPy` · `Classification` · `Decision Trees`
 
 - Developed a machine learning classification model to assess creditworthiness and predict financial credit risk.
@@ -110,13 +113,14 @@ Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"*
 
 </div>
 
-**Spring Cloud:** Spring Cloud Gateway · Eureka Service Discovery · Feign Client · Resilience4j · Spring Config Server<br>
-**Design Patterns:** Singleton · Factory · Builder · Observer · Strategy · Proxy · Decorator · Repository · MVC · Dependency Injection<br>
+**Spring Cloud:** Spring Cloud Gateway · Eureka Service Discovery · Feign Client · Resilience4j · Spring Config Server
+**Design Patterns:** Singleton · Factory · Builder · Observer · Strategy · Proxy · Decorator · Repository · MVC · Dependency Injection
 **Security & Docs:** Spring Security · Keycloak (OAuth2) · Swagger
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
+
 
 <div align="center">
   <img src="./circuit-banner-full-hq.gif" width="100%" alt="Circuit Banner" />
@@ -216,10 +220,6 @@ Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"*
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shroukmohamed5&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 ## 🐍 Contribution Snake
