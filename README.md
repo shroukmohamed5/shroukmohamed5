@@ -225,8 +225,9 @@ Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"*
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shroukmohamed5&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
-<img width="194" height="260" alt="matrix-walker (1)" src="https://github.com/user-attachments/assets/8439630d-71a2-4223-963b-378b711a9fe5" />
-
+<div align="center">
+  <img width="194" height="260" alt="matrix-walker (1)" src="https://github.com/user-attachments/assets/8439630d-71a2-4223-963b-378b711a9fe5" />
+</div>
 
 ## 🐍 Contribution Snake
 
