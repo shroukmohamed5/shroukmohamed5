@@ -226,10 +226,14 @@ Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"*
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shroukmohamed5&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shroukmohamed5/shroukmohamed5/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake animating over the years' contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shroukmohamed5/shroukmohamed5/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shroukmohamed5/shroukmohamed5/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/shroukmohamed5/shroukmohamed5/pacman-output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
 <div align="center">
