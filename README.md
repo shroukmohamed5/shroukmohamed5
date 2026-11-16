@@ -158,14 +158,14 @@ Completed during an internship at **"ТЕХНОЛОГИИ НАДЕЖНОСТИ"*
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shroukmohamed5&show_icons=true&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shroukmohamed5&layout=donut&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=true" height="170" alt="Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shroukmohamed5&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shroukmohamed5&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 ## 🎮 Contribution Graph
